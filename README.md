@@ -1,4 +1,4 @@
-# charlesbreaker
+# CharlesBreaker
 
 ## Project setup
 ```
