@@ -1,14 +1,11 @@
 <template>
-  <LicenseGetter/>
+  <div class="license-getter"></div>
 </template>
 
 <script>
-import LicenseGetter from "@/components/licenseGetter"
-
 export default {
-  name: "Home",
-  components: {
-    LicenseGetter
+  name: "LicenseGetter",
+  mounted() {
   },
   methods: {
     getLicenseKey() {
